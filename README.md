@@ -15,7 +15,7 @@ Trên máy khác, macOS có thể dùng Homebrew: `brew install node@24`. Nếu 
 ## Chạy dự án
 
 ```bash
-cd /Users/ngocphung/Site/Open3DKit
+cd /Open3DKit
 npm ci
 npm run dev
 ```
