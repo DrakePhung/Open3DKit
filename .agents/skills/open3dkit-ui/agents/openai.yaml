@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open3DKit UI"
+  short_description: "Xây thư viện tool và giao diện workspace responsive"
+  default_prompt: "Dùng $open3dkit-ui để thực hiện công việc phù hợp trong Open3DKit."

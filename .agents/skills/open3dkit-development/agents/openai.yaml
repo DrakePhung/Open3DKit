@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open3DKit Development"
+  short_description: "Định hướng kiến trúc và chọn workflow phát triển"
+  default_prompt: "Dùng $open3dkit-development để thực hiện công việc phù hợp trong Open3DKit."

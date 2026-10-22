@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open3DKit Tool Builder"
+  short_description: "Viết tool 3D và gắn tự động vào thư viện"
+  default_prompt: "Dùng $open3dkit-tool để thực hiện công việc phù hợp trong Open3DKit."

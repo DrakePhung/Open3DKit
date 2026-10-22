@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open3DKit Model IO"
+  short_description: "Thiết kế nhập xuất mô hình 3D và đơn vị đo"
+  default_prompt: "Dùng $open3dkit-model-io để thực hiện công việc phù hợp trong Open3DKit."

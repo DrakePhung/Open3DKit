@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open3DKit Verification"
+  short_description: "Kiểm tra core, build và luồng tool trước bàn giao"
+  default_prompt: "Dùng $open3dkit-verification để thực hiện công việc phù hợp trong Open3DKit."
